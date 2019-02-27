@@ -23,10 +23,16 @@ body{
 	
 a{
 	text-decoration: none;
-	font-size: 40px;
 	color: #ffff33;
 }
+	
 .wrapper>.title>span{
 	font-size: 30px;
 	color: #ff3333;
+}
+
+	
+.blog{
+	margin-left: 300px;
+	color: #55ff00;
 }
