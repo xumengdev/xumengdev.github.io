@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	height: 100vh;
+	background-image: url(../image/bg.jpg);
+	background-repeat:repeat-y;
+	background-size: 100%;
+	display: flex;
+	text-align: center;
+}
+	
+.wrapper{
+	margin: auto;
+}
+	
+.wrapper .title{
+	font-family: "宋体";
+	font-size: 50px;
+	color: rgba(255,255,255,0.8);
+}
+	
+a{
+	text-decoration: none;
+	font-size: 40px;
+	color: #ffff33;
+}
+.wrapper>.title>span{
+	font-size: 30px;
+	color: #ff3333;
+}

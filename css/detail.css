@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(../image/bg2.jpg);
+	background-repeat: repeat-y;
+	backgroud-size: 100%;
+	height: 100%vh;
+	
+}
+	
+a{
+	text-decoration: none;
+}
+.back{
+	font-size: 30px;
+	color: blueviolet;
+}
+.table{
+	margin: 0 auto;
+	text-align: center;
+	font-size: 30px;
+	border: 2px solid powderblue;
+	font-family: "宋体";
+}
+	
+.prefix{
+	height: 80px;
+}
+	
+.last{
+	width: 1000px;
+}
+	
+.table-header{
+	height: 80px;
+}
+	
+.wo>img{
+	width: 100%;
+}
